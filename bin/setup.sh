@@ -9,4 +9,4 @@ then
   collection_path=$default_collection_path
 fi
 
-`./bin/change_screensaver_folder.sh "$collection_path"`
+`./bin/set_screensaver_to_shiftingtiles.sh "$collection_path"`

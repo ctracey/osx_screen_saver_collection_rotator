@@ -8,7 +8,8 @@ Setup
 Create a new parent folder for your image collections in `/Library/Screen Savers/`
 Warning: OSX wont let this script work if your collections parent folder is not in `/Library/Screen Savers/`
 
-Then run this script to set your screen saver to the shifting tiles screen saver using one of your folders
+Either manually set your screen saver to the shifting tiles screen saver using one of your folders
+or run this script to do it.
 `./bin/setup.sh /Library/Screen Savers/<your parent foldler>/<your starting collection folder>`
 
 Note: setup defaults to `/Library/Screen Savers/Default Collections/1-National Geographic` if no path is provided
